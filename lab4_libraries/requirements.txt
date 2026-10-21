@@ -1,0 +1,10 @@
+requests
+rich
+colorama
+pyfiglet
+emoji
+termcolor
+humanize
+tabulate
+qrcode[pil]
+art
